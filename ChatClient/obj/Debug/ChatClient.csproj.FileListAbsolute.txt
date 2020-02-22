@@ -1,0 +1,26 @@
+F:\Proj\testchat\очередной\ChatClient\bin\Debug\ChatClient.exe
+F:\Proj\testchat\очередной\ChatClient\bin\Debug\ChatClient.pdb
+F:\Proj\testchat\очередной\ChatClient\obj\Debug\ChatClient.Form1.resources
+F:\Proj\testchat\очередной\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+F:\Proj\testchat\очередной\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+F:\Proj\testchat\очередной\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+F:\Proj\testchat\очередной\ChatClient\obj\Debug\ChatClient.exe
+F:\Proj\testchat\очередной\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\zyk83\Desktop\очередной\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\zyk83\Desktop\очередной\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\zyk83\Desktop\очередной\ChatClient\obj\Debug\ChatClient.Form1.resources
+C:\Users\zyk83\Desktop\очередной\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\zyk83\Desktop\очередной\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\zyk83\Desktop\очередной\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\zyk83\Desktop\очередной\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\zyk83\Desktop\очередной\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\zyk83\Desktop\очередной\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+F:\Proj\Finale chat\ChatClient\bin\Debug\ChatClient.exe
+F:\Proj\Finale chat\ChatClient\bin\Debug\ChatClient.pdb
+F:\Proj\Finale chat\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+F:\Proj\Finale chat\ChatClient\obj\Debug\ChatClient.Form1.resources
+F:\Proj\Finale chat\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+F:\Proj\Finale chat\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+F:\Proj\Finale chat\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+F:\Proj\Finale chat\ChatClient\obj\Debug\ChatClient.exe
+F:\Proj\Finale chat\ChatClient\obj\Debug\ChatClient.pdb
