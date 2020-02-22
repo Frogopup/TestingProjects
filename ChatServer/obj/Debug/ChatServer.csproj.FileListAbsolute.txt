@@ -1,0 +1,29 @@
+F:\Proj\testchat\очередной\ChatServer\bin\Debug\ChatServer.exe
+F:\Proj\testchat\очередной\ChatServer\obj\Debug\ChatServer.Form1.resources
+F:\Proj\testchat\очередной\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+F:\Proj\testchat\очередной\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+F:\Proj\testchat\очередной\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+F:\Proj\testchat\очередной\ChatServer\obj\Debug\ChatServer.exe
+F:\Proj\testchat\очередной\ChatServer\obj\Debug\ChatServer.pdb
+F:\Proj\testchat\очередной\ChatServer\bin\Debug\ChatServer.pdb
+F:\Proj\testchat\очередной\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\Users\zyk83\Desktop\очередной\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\zyk83\Desktop\очередной\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\zyk83\Desktop\очередной\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\Users\zyk83\Desktop\очередной\ChatServer\obj\Debug\ChatServer.Form1.resources
+C:\Users\zyk83\Desktop\очередной\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\Users\zyk83\Desktop\очередной\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+C:\Users\zyk83\Desktop\очередной\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\zyk83\Desktop\очередной\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\zyk83\Desktop\очередной\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\zyk83\Desktop\очередной\ChatServer\bin\Debug\ChatServer.exe.config
+F:\Proj\Finale chat\ChatServer\bin\Debug\ChatServer.exe.config
+F:\Proj\Finale chat\ChatServer\bin\Debug\ChatServer.exe
+F:\Proj\Finale chat\ChatServer\bin\Debug\ChatServer.pdb
+F:\Proj\Finale chat\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+F:\Proj\Finale chat\ChatServer\obj\Debug\ChatServer.Form1.resources
+F:\Proj\Finale chat\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+F:\Proj\Finale chat\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+F:\Proj\Finale chat\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+F:\Proj\Finale chat\ChatServer\obj\Debug\ChatServer.exe
+F:\Proj\Finale chat\ChatServer\obj\Debug\ChatServer.pdb
